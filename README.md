@@ -1,0 +1,2 @@
+# Medical-Information-Web-Scraping-and-Organization
+After scraping a website with anatomy information, I organized into several data frames which could then be imported into Anki for their usage. The df1 through df8 are those dataframes converted to csv files. The othe csv file is the raw scraped data. The finaldatabase.py utilizes pandas to iterate through the data and organize them by diagnosis.
